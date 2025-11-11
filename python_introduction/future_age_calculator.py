@@ -1,6 +1,6 @@
 # Age calculator
 
-age = int(input("How old are you"))
+age = (input("How old are you"))
 current_year = 2023
 future_year = 2050
 

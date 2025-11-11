@@ -1,7 +1,7 @@
 # Financial calculator
 
-monthly_salary = int(input("Enter your monthly income:"))
-monthly_expenses = int(input("Enter your total monthly expenses:"))
+monthly_salary = float(input("Enter your monthly income: "))
+monthly_expenses = float(input("Enter your total monthly expenses: "))
 interest_rate = 0.05
 
 monthly_savings = monthly_salary - monthly_expenses

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # prompt the user input
-num1 = input("Enter the First number: ")
-num2 = input("Enter the second number: ")
+num1 = float(input("Enter the First number: "))
+num2 = float(input("Enter the second number: "))
 operation = input("Choose the operation(+, -, *, /): ")
 
 # perform the calculation with matchcase
